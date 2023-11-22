@@ -11,4 +11,11 @@ In Java sind Aufzählungstypen als Klassen realisiert. Die definierten Werte sin
 ## Klassen in Java
 In der Programmiersprache Java besitzen Klassen eine sehr große Bedeutung. Sie sind die Baupläne nach denen Objekte (Instanzen von Klassen) modelliert werden.
 
+## Methoden in Java
+In Java spielen Methoden eine zentrale Rolle. Sie bestimmen das Verhalten von Objekten und somit auch das Verhalten des gesamten Programms.
 
+Methoden arbeiten in Java immer mit den Daten (Variablen) von Objekten. Das unterscheidet sie von Funktionen, die man in anderen Programmiersprachen vorfinden kann und welche vollkommen unabhängig von einem Objekt oder einer Klasse existieren.
+
+## Vererbung in Java – Ableiten einer Klassen
+In Java können mit Hilfe der Vererbung Programmteile wiederverwendet werden, dabei werden die Merkmale bereits vorhandener Klassen auf abgeleitete Klassen übertragen.
+Die neue Klasse erbt dadurch alle Merkmale der Basisklasse. Dabei werden alle Klassenvariablen und Methoden der Klasse an die abgeleitete Klasse übertragen.
